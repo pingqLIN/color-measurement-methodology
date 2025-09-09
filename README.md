@@ -17,7 +17,7 @@
 
 ## 🌐 在線觀看
 
-訪問網站：[https://your-username.github.io/repository-name](https://your-username.github.io/repository-name)
+訪問網站：[https://pingqlin.github.io/color-measurement-methodology](https://pingqlin.github.io/color-measurement-methodology)
 
 ## 🔬 技術特點
 
@@ -45,4 +45,4 @@
 
 ---
 
-*這是一個學術研究項目，旨在提供色彩測量領域的科學分析與實務指導。*
+_這是一個學術研究項目，旨在提供色彩測量領域的科學分析與實務指導。_
